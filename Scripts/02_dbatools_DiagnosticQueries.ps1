@@ -17,7 +17,7 @@ Start-Process https://glennsqlperformance.com/resources/
 Invoke-DbaDiagnosticQuery -SqlInstance mssql1 -UseSelectionHelper
 
 <#
-omputerName     : mssql1
+ComputerName     : mssql1
 InstanceName     : MSSQLSERVER
 SqlInstance      : mssql1
 Number           : 1
